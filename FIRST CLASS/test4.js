@@ -1,10 +1,12 @@
-var brand=Zara
-var price=399
-var rating=3.5
-var colore=[black, white,yellow]
-var size=[39,40,42,44]
+var a = 10
+var b = 20
+var c = '30'
+var d = 'forty'
+console.log(a * b); //200
+console.log(a * c);//300
+console.log(a * d);//NAN
 
-console.log(price)
-console.log(colore)
-console.log(size)
-console.log(rating)
+/* console.log(a + b)  //30
+console.log(a + c) //'1030
+console.log(a + d)//'10forty' */
+
